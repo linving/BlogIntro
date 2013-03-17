@@ -1,4 +1,3 @@
-1st_web_write
-=============
-
-第一个web网页
+BlogIntro
+======
+A blog html template
